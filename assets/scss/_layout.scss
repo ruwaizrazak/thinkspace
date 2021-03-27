@@ -29,6 +29,10 @@ body {
 
 body {
   background-color: $base-background-color;
+  img
+	{
+    max-width:200px;
+    }
 }
 
 hr {
